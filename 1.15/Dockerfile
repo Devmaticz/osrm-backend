@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
 
-MAINTAINER Augmented Telematicss <dev@augmentedtelematics.com>
+MAINTAINER Augmented Telematics <dev@augmentedtelematics.com>
 
 ENV OSRM_VERSION 5.18.0
 
