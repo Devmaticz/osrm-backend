@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
 
-MAINTAINER Peter Evans <pete.evans@gmail.com>
+MAINTAINER Augmented Telematicss <dev@augmentedtelematics.com>
 
 ENV OSRM_VERSION 5.18.0
 
